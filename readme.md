@@ -6,7 +6,7 @@ Preambule
 * Vymyslete vlastní název týmu a nastavte si jej v repozitáři na githubu.
 
 a) Cvičení
-* Vžijte se do role školitele a sestavte vlastní cvičení na procvičení určitého tématu.
+* Vžijte se do role seniorního programátora, který mj. zaučuje a pomáhá méně zkušeným kolegům. Sestavte vlastní cvičení na procvičení určitého tématu.
 * Náročnost cvičení sestavte postupně rostoucí tj. od jednoduššího po složitější zadání.
 * Časová náročnost na splnění řešení 45 minut.
 * Zadání vypracujte do souboru cviceni.md
